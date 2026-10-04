@@ -1,0 +1,678 @@
+word,explanation
+excruciating,"nieznośny, potworny (ból)"
+root for sb,kibicować komuś
+nosedive,"spadać; spadać na łeb, na szyję The prices of fuel are nosediving"
+elusive,"nieuchwytny, trudno osiągalny"
+convenient,"wygodny, praktyczny"
+togetherness,wspólnota
+inevitable,nieunikniony
+uphold,"podtrzymywać (decyzję, obietnicę)"
+solemnly,"uroczyście, poważnie"
+comb,grzebień
+joint,staw (chrząstka)
+swing,"huśtawka, huśtać się"
+bury,zakopać
+praise,chwalić
+dove,gołąb
+be all downhill,"polepszać się, mieć coś z górki, pogarszać się, ciągle się pogarszać"
+evaporate,"minąć, wyparowywać, stopień (entuzjazm, wiara)"
+deceptive,"oszukańczy, pozorny (Frank Underwood)"
+flattery,pochlebstwa
+clue,"pojęcie, I don't have a clue who you are."
+whatsoever,"w ogóle, This what you are saying it doesn't make sense whatsoever(... to w ogóle nie ma sensu)"
+freckles,piegi
+discard,"wyrzucić kogoś , pozbyć się, nie akceptować, odrzucać (zmiany)"
+leaning,"przychylać się ku, leaning no or leaning yes"
+pit stop,"ktoś kto jest na chwilę, tymczasowy romans"
+shatter around,niszczyć
+strong-arm sb to do,zmusić kogoś do zrobienia czegoś
+predominantly,"w głównej mierze, przeważnie"
+harness,"zaprzęgać, okiełznać"
+pooling,zbiorczy
+whereas,"podczas gdy; natomiast; wziąwszy pod uwagę, że..."
+subsequently,"następnie, potem"
+stride,krok
+peacock,paw
+nick,"ukraść, buchnąć"
+snog,obcałowywać się
+draw in sorrow,topić się w smutkach
+stove,"kuchenka, cooker"
+knob,gałka u drzwi
+chalice,kielich mszalny
+be nuts,"być szalonym, postradać zmysły"
+suspension,zawieszenie (np. ucznia w szkole)
+leper,trędowaty
+seizure,atak serca
+pave,zabetonować
+come into leaf,"pokryć się liśćmi, zazielenić się"
+stork,bocian
+wedge of stroks,klucz bocianów
+flock,"gromada, stado"
+flutter,"łagodnie unosić się w powietrzu, fruwać"
+wheel,"koło (w rowerze, samochodzie)"
+rolling chair,to na czym siedzisz przy komputerze
+windowsill,parapet
+"dust, flaff",kurz
+dishwashing liquid,płyn do zmywania
+wipe,wycierać (kurz)
+wiper,ścierka
+possess,"posiadać, mieć"
+lead to,prowadzić do
+comprehensive,zrozumiały
+track down,"znaleźć, wytropić"
+revert to something,powracać do czegoś
+self-explanatory,"oczywisty, intuicyjny"
+sparingly,oszczędnie
+suitable,odpowiedni
+spot,dostrzegać
+crucial,"kluczowy, niezbędny"
+prematurely,przedwcześnie
+encompass,"objemować, ogarniać"
+ambiguously,"dwuznacznie, niejednoznacznie"
+discouragement,zniechęcenie
+fallacy,błędne przekonanie
+embark on,rozpocząć
+retarded,"debilny, upośledzony psychiczny"
+diminish,"zmniejszać się, maleć, ubywać"
+dreadful,"okropny, straszny"
+take something into account,wziąść coś pod uwagę
+proliferation,rozpowszechnienie
+to some extent,"w pewnym stopniu, częściowo"
+induce to,"skłaniać do, powodować, wywolywać"
+obesity,otyłość
+stroke,udar mózgu
+tape,kaseta
+subpoena,wezwanie do sądu
+inadmissible,niedopuszczalny w sądzie (dowód)
+coercion,przymus
+interrogation,przesłuchanie
+fierce,"zacięty, zagorzały"
+indictment,"akt oskarżenia, oskarżenie"
+impersonate,"wcielać się w postać (kogoś), podawać soę za (kogoś), parodiować"
+outraged,oburzony
+endure,"znosić, cierpieć"
+affidavit,oświadczenie złożone pod przysięgą
+affiliation,przynależność
+on smb behalf,w czyimś imieniu
+tire,opona (w samochodzie)
+protruding,"wystający, sterczący"
+draught,"powiew (wiatru), przeciąg, przewiew"
+essential,"niezbędny, podstawowy"
+coherence,spójność
+consistency,spójność
+consistent,spójny
+occur,"pojawić się, zdarzyć się"
+make out,"całować się, udawać (np. że kogoś się nie widzi)"
+initial,początkowy
+appeal to smt,odwołanie do czegoś
+reasoning,argumentacja
+tendency,tendencja
+plead smt,powoływać się na coś
+falsifying,fałszowanie
+covertly,"potajemnie, ukradkiem"
+incredulity,niedowierzanie
+credulity,łatwowierność
+porridge,"odsiadka (w więzieniu), owsianka"
+intrinsic,"wrodzony, wewnętrzny, nieodłączny"
+mind-demanding,wymagający myślenia
+unintelligible,"nieprzejrzysty, niezrozumiały"
+apprise,ogłosić
+formative,kształtujący
+feat,"wyczyn, dokonanie"
+accomplish,osiągać
+peculiar,"osobliwy, dziwny, indywidualny"
+above-average,ponadprzeciętny
+declamation,wypowiedź
+abrasive,"szorstki, zgryźliwy"
+abridgement,"streszczenie, skrót, wersja skrócona"
+upbringing,wychowanie
+bladder,pęcherz
+urinary system,układ moczowy
+counterintuitive,sprzeczny z intuicją
+puzzling,"zagadkowy, niezrozumiały"
+gullible,łatwowierny
+nonresistant to smt,nieodporny na coś
+succinct,"treściwy, zwięzły (opis)"
+simultaneously,at the same time
+appearance,wygląd
+handy,pomocny
+hence,stąd (wynika)
+associated,"połączony, powiązany"
+comparsion,porównanie
+syntactically,składniowo
+silently,bezdźwięcznie
+assignment,zadanie
+idiosyncratic,"specyficzny, charakterystyczny"
+mind-boggling,"ogromny, niewyobrażalny, niepojęty"
+startling,"zadziwiający, zdumiewający"
+crusty,chrupiący
+rustic,"chłopski, prosty, wiejski"
+pertain to smt,dotyczyć czegoś
+insist upon my own right to something,domagać się swego prawa do czegoś
+grief-stricken,pogrążony w żalu
+exploitable,zdatny do wykorzystania
+unchaperoned,"sam na sam, solo, sam"
+primarily,"głównie, przede wszystkim, zasadniczo"
+initiate sb into smt,wtajemniczyć kogoś w coś
+throughout,przez cały (dzień) ... throught the day
+lay out smt,przedstawić coś
+akin to smt,"zbliżony do czegoś, pokrewny do czegoś"
+inquisitive,"dociekliwy, ciekawski"
+inquisitively,z zaciekawieniem
+incur,wywoływać (strach u kogoś)
+wrath,"gniew, ekstremalna, wściekłość"
+vary,różnić się
+unquenchable,"nieugaszony, niezaspokojony (pragnienie)"
+remedy,"leczyć, rozwiązywać (problem)"
+clutch,"chwytać, ściskać, trzymać kurczowo"
+cherish,"pielęgnować, dbać, czcić"
+ample,"pokaźny, dostateczny (dowód)"
+conscientious,"sumienny, skrupulatny"
+persuasive,przekonujący (ktoś)
+intrepid,"nieustraszony, dzielny"
+perspicacious,"bystry, przenikliwy, wnikliwy"
+sagacious,"bystry, roztropny, rozumny"
+resilient,"odporny, wytrzymały (o osobie)"
+nonproductive,nieproduktywny
+engaging,"wciągający, ujmujący, przykuwający uwagę"
+enrich,wzbogacać
+until recently,do niedawna
+brain-busting,"skomplikowany, wymagający dużo wysiłku umysłowego"
+vigorous,"energiczny, pełen wigoru, silny"
+spout,"wygłaszać (mądrości), rozgadywać się"
+surveillance,inwigilacja
+doctored,"sfałszowany, podrobiony, przerobiony"
+homicide,morderstwo
+suicide,samobójstwo
+prosecutor,"prokurator, oskarżyciel"
+show off,popisywać się
+perjury,krzywoprzysięstwo
+convict,"uznawać za winnego, więzień, skazaniec"
+culprit,"delikwent, winowajca (przestępstwa)"
+frame sb in,wrabiać kogoś w coś
+serenity,"spokój  (umysłu), pogoda (ducha)"
+courage,odwaga
+wisdom,mądrość
+saviour,wybawca
+immaturity,niedojrzałość
+gaze,wpatrywać się
+abyss,"otchłań, przepaść, czeluść"
+prophecy,"proroctwo, przepowiednia"
+accomplice,"współsprawca, współwinny (np. w dokonywaniu przestępstwa)"
+aversion,"nienawiść, obrzydzenie, odraza, wstręt"
+unscathed,"nietknięty, bez szwanku, bez uszczerbku"
+sweat,pot
+bloke,"facet, gość, koleś"
+stain,plama
+grimace,skrzywić się
+hesitate,wachać się
+hesitantly,"z wahaniem, niepewnie"
+undermentioned,"niżej wymieniony, poniższy"
+neglected,"zaniedbany, niedoceniony, lekceważony"
+abduct,"porywać, uprowadzać"
+insidious,"podstępny, pozornie niewinny (np. wróg, choroba)"
+face repercussions,zmierzyć się z konsekwencjami
+persuit,"pogoń, dążenie"
+pressure,"nacik, presja"
+temporary,"przejściowy, tymczasowy"
+reckon,"myśleć, sądzić, przypuszczać, liczyć, kalkulować"
+concussion,wstrząs mózgu
+distinguish,"odróżniać, rozróżniać"
+creed,wyznawana wiara
+kick off smt,rozpocząć coś
+internally,wewnętrznie
+pass in,przekazywać
+explicit,"jasny, wyraźny (czytelność)"
+ensure,zapewniać
+ownership,własność
+leak,przeciek
+snippet,"skrawek materiału, fragment, odrobina (czegoś)"
+wrap,zapakować
+terminate,"kończyć, przerywać"
+grab a bite,"przekąsić co, pójść coś zjeść"
+slip,poślizgnąć się
+limb,konar
+profanity,przekleństwo
+fluke,"szczęsliwy traf, fart"
+bashing,krytykowanie kogoś
+lame,"kiepski (o wymówce), słaby, nudyny (o człowieku)"
+well-itentioned,pełen dobrych chęci
+bully,łobuz
+snoop,"węszyć, wtykać nos w cudze sprawy"
+rumor,"pogłoska, plotka"
+choir,chór
+emphasis,"nacisk, szczególna uwaga"
+squarely,"całkowicie, niezaprzeczalnie"
+pear,gruszka
+rock-solid,twardy jak skała
+suck-up,lizus
+doubt,wątpić (I doubt it
+whisper,szeptać
+amplify,"wzmacniać (sygnał, dźwięk)"
+exile,"wygnać, wygnanie"
+errand,"sprawa, sprawa do załatwienia"
+reckless,"nieostrożny, lekkomyślny"
+rip apart,"rozdzierać, ostro krytykowa"
+mortify,upokarzać
+awkward,niezręczny
+attainable,"realny, osiągalny (cel, plan)"
+adventurous,"lubiący przygody, żądny przygód"
+affectionate,czuły tkliwy
+daring,"dzielny, ryzykowny, śmiały"
+excel in smt,"wyróżniać się w czymś, być w czymś lepszym od innych, osiągać w czymś znakomite wyniki"
+fair-minded,"sprawiedliwy, bezstronny, bez uprzedzeń"
+be full of oneself,"egoistyczny, zarozumiały, mający duże mniemanie o sobie"
+good-natured,"dobroduszny, pogodny, łagodny"
+astute,"bystry, przenikliwy (w radzeniu sobie z ludźmi, problemami)"
+exquisite,"znakomity, wyborny, wyśmienity"
+wicked,"nikczemny, niegodziwy"
+strong-willed,z silnym charakterem
+cruel,okrutny
+cruelty,okrucieństwo
+remark,"spostrzeżenie, uwaga, komentować (na jakiś temat), napomknąć (o czymś)"
+obscure,niejasny (trudny do zrozumienia)
+external,zewnętrzny
+stand up for,stanąć w obronie kogoś/czegoś
+sloopy,"niestaranny, niedbały (praca), niedbały, niechlujny (osoba)"
+diligent,"pilny, staranny, sumienny (np. uczeń)"
+connoisseur,"znawca, koneser"
+intersection,"część wspólna, iloczyn zbiorów"
+vertex,wierzchołek
+as many as,aż (...number)
+depict,"przedstawiać, obrazować"
+intuitive,intuicyjny
+introduction,"wprowadzenie, wstęp (w książce)"
+associativity,łącznośc [a+(b+c)=(a+b)+c]
+unforeseen,nieoczekiwany (rozwój wypadków)
+due to smt,z powodu czegoś
+due to sb,dzięki komuś
+unconducive,niesprzyjający
+circumstances,okoliczności
+circumvent,"obchodzić, omijać (przepisy)"
+colloquial,"potoczny, kolokwialny"
+push,pchać
+pull,ciągnąć
+edifice,gmach (wielki okazały budynek)
+cuisine,"kuchnia np. japońska, tajska"
+mock,"drwić, nabijać się, sztuczny, podrobiony"
+ornate,"ozdobny, kwiecisty (o stylu mówienia, pisania)"
+ornament,ozdoba
+exceedingly,"niezmiernie, nadzwyczaj, bardzo, niezywkle"
+extremely,"niezmiernie, nadzwyczaj, bardzo, niezywkle"
+increasingly,"coraz bardziej, coraz częściej"
+take delight in,"rozkoszować się czymś, czerpać radość"
+take satisfaction in doing,czerpać satysfakcję z robienia czegoś
+self-improvement,samodoskonalenie
+personal development,rozwój osobisty
+advancement,"polepszenie, postęp, rozwój"
+self-advancement,rozwój osobisty
+advance,"posuwać się na przód, rozwijać się, czynić postępy"
+acquire,"nabywać, zdobywać, osiągać"
+affection,"uczucie (miłość lub przyjaźń do kogoś), przywiązanie"
+tricky,"trudny, podchwytliwy"
+shake,trząść się
+coal-black,czarny jak smoła
+blink,mrugać (oczami)
+beer gut,"piwny, duży brzuch"
+stomach,brzuch
+armpit,pacha
+gesture,zrobić gest
+mall,galeria handlowa
+heft,"dźwigać, nosić"
+underneath,"pod, poniżej, pod spodem (he looked underneath the carpet)"
+ripped,poszarpany
+knee,kolano
+altercation,sprzeczka
+anticipate,"spodziewać się, oczekiwać"
+apprehend,"aresztować, schwytać (złodzieja)"
+apprentice,"praktykant, odbywać praktyki"
+apprenticeship,"praktyki, praktyka"
+baptise,ochrzcić
+bias,"stronniczość, uprzedzenie, nastawienie"
+blush,"zaczerwienić się, zarumienić się (ze wstydu)"
+bookworm,mól książkowy
+bottle up smt,"dusić w sobie coś, tłumić (emocje)"
+bowtie,mucha do garnituru
+brat,"bachor, smarkacz"
+breastfeed,karmić piersią
+briefly,zwięźle
+bulky,dużych rozmiarów
+bunch of smt,"grupa/bukiet czegoś, masa, kupa (rzeczy)"
+cannabis,"konopie indyjskie, marihuana"
+casket,trumna
+cattle,bydło
+caution,"ostrożność, rozwaga"
+chagrined,"rozgoryczony, rozczarowany"
+chew,gryźć
+cliffhanger,trzymające w napięciu zakończenie odcinka serialu
+clueless,niezorientowany (ktoś w jakimś temacie)
+clumsy,nieporęczny
+vicinity,"bliskość, otoczenie, okolica, sąsiedztwo"
+commendation,"pochwała, wyróżnienie, rekomendacja"
+complacent,"zadowolony z siebie, pełen samozadowolenia, beztroski"
+conjure up,"przywołać wspomnienie, obraz, wywyołać, wyczarować"
+courtship,"staranie o rękę, konkursy, zaloty"
+crestfallen,"przygnębiony, strapiony, zawiedzony"
+cuff sb,założyć komuś kajdanki
+curtain,firanka
+debonair,"uprzejmy, elegancki, wytworny"
+decline,"spadek, zanik, utrata"
+deflate,"umniejszać (znaczenie czegoś), podważać (argument)"
+delineate,"nakreślać, wytyczać"
+delusion,"złudzenie, urojenie"
+devout,pobożny
+dim,"przyćmiony, ciemny (światło)"
+distinction,"rozróżnienie, różnica"
+doomed,"przesądzony, z góry skazany"
+doormat,wycieraczka do butów
+dosage,dawkowanie
+drop,"upuszczać, spadać, kropla, idiota"
+dune,wydma
+dupe sb,"nabrać kogoś, oszukać"
+duty,obowiązek
+eager,"chętny, ochoczy"
+eavesdrop,podsłuchiwać
+elbow,łokieć
+embellish,"podkolorować, upiększyć, ozdabiać (prawdę, opis, budynek)"
+embodiment,"ucieleśnienie, uosobienie, wcielenie"
+embolden,ośmielać się
+engage in smt,"zajmować się, podejmować się czegoś"
+enroll on smt,zapisać się na coś
+entice,"kusić, skusić"
+enticing,kuszący
+entrust smt to sb,powierzyć coś komuś
+envy sb smt,zazdrościć komuś coś
+essentially,"zasadniczo, w gruncie rzeczy"
+evade smt,"pomijać, omijać, ignorować, uchylać się od czegoś, unikać czegoś"
+exacerbate,"pogarszać (samopoczucie, sytuację)"
+monochromatic,"jednokolorowy, czarno biały"
+lack smt,brakować czegoś
+exceed,"przekroczyć, przewyższyć (limit)"
+exclude,wykluczać
+include,"wliczać, włączać"
+exhaust,"wyczerpywać (zapasy, temat), męczyć, wykańczać"
+exhilarating,"ekscytujący, porywający"
+extortionist,szantarzysta
+extracurricular,"ponadprogramowy, pozaszkolny, dodatkowy (zajęcia, aktywności)"
+fairly,"raczej, dosyć"
+feign,"symolować, udawać"
+fella,"facet, gość"
+fetch,przynieść (pójść po coś i wrócić)
+flaw,skaza
+flinch,wzdrygać się
+folks,ludzie
+forhtcoming,"przyszyły, nadchodzący, mający sie ukazać"
+glimpse,"rzucić okiem, mignąć"
+goof off,obijać się
+gourmet,smakosz
+grapple with,borykać się/zmagać się z czymś
+gratitude,wdzięczność
+grief,"żal, rozpacz, smutek"
+guile,"oszustwo, podstęp"
+gush,"tryskać, wytrysnąć (o krwi, ropie)"
+notion,"pojęcie, pomysł, myśl, pogląd"
+haze,"znęcać się nad nowym (uczniem, żołnierzem)"
+hermit,pustelnik
+heroine,bohaterka
+hit on sb,podrywać kogoś
+horseplay,"wygłupy, harce"
+hostile,"nieprkzyjazny, wrogi"
+in particular,w szczególności
+incantation,zaklęcie
+incentive,"bodziec, motywacja, zachęta"
+obsolate,przestarzały
+occupy,"zajmować (miejsce, pokój)"
+anchor,"opuścić kotwicę, kotwica, umocowa, przymocować"
+mourn,"opłakiwać, lamentować"
+myocarditis,zapalenie mięsnia sercowego
+infiltration,przenikanie
+infiltrate,"infiltrować (przenikanie obcych ludzi, ideologii do jakiegoś środowiska)"
+endorse,"zgadzać się z czymś, udzielać poparcia, wyrażać aprobatę (dla jakiegoś kandydata)"
+untangle,"rozplątywać, rozsupłać, rozwikłać (sprawę, zagadkę)"
+infer,"wnioskować, wywnioskować, wydedukować"
+inconceivable,"niepojęty, niewyobrażalny"
+incrimination,"oskarżenie, obwinienie"
+indenture,zobowiązywać kontraktem
+mild,łagodny
+misbehave,źle się zachowywać (o dziecku)
+miscellaneous,"rozmaity, różnorodny, pomieszany"
+miserable,"smutny, przygnębiony, nieszczęśliwy"
+missle,pocisk rakietowy
+mutter,mamrotać
+murmur,mruczeć
+nearly,blisko
+nest egg,"sumka na czarną godzinę, oszczędności"
+nonetheless,"niemniej jednak, jednakże"
+nevertheless,"niemniej jednak, jednakże"
+nudge,"szturchać, popychać, popchnąć"
+nurture,"wychowywać, pielęgnować (dziecko, rośline)"
+on a daily basis,"codziennie, każdego dnia, na co dzień"
+opaqueness,"nieprzejrzystość, mętność"
+parent-teacher meeting,wywiadówka
+opaque,"mętny, nieprzejrzysty"
+outperform sb,"znacznie prześcignąć kogoś, przewyższać, osiągać lepsze wyniki od kogoś"
+overflow,"nadmiar, przepełnienie"
+pace,"tempo, szybkość (chodzenia, poruszania się)"
+velocity,prędkość (wektorowa)
+paralell,"porównanie (w wierszu),  podobieństwo, równoległy (w matematyce)"
+partisanship,stronniczość
+pathetic,"żałosny, żenujący, godny politowania"
+peach,brzoskiwnia
+watermelon,arbuz
+lemon,cytryna
+caramel,karmel
+salt caramel/salted caramel,słony karmel
+peak,"szczyt, maksimum (np. osiągnięć), osiągać poziom szczytowy"
+peer,rówieśnik
+peer into smt,przyglądać sie badawczo czemuś
+pent-up,"tłumiony, skrywany (np. uczucia, emocje), skumulowany (energia), stłumiony, zdławiony (gniew, radość)"
+peril,"zagrożenie, niebezpieczeństwo"
+perilous,"niebezpieczny, ryzykowny"
+pernicious,"szkodliwy, zgubny, groźny"
+politician,polityk
+prevail,"zwyciężyć, dominować, brać górę"
+steer,"sterować, być na czele firmy, organizacji"
+adversity,"niedola, nieszczęście, przeciwność losu"
+uncertainty,"niepewność (losu), niejasność (przyszłości)"
+proficiency,"wprawa, biegłość, kompetencja"
+influenza,grypa
+eligibility,"prawo, uprawnienie, odpowiednie kwalifikacje"
+workload,obciążenie pracą (ilość pracy do wykonania)
+tuition fees,czesne (opłata za studia)
+rescue,"ratunek, ratować, ocalić"
+retail,sprzedaż detaliczna
+real estate,nieruchomość
+estate,"posiadłość, majątek ziemski, osiedle"
+pick up on smt,zauważać coś
+pick sb up on smt,krytykować kogoś za coś
+pioneer,"pionier, wynalazca"
+pitiless,"bezlitosny, okrutny"
+pitilessness,okrucieństwo
+poke,"szturchać, trącać"
+pop,wyskakiwać
+pope,"papież, pop (prawosławny)"
+possessed,opętany
+postpone,"odłożyć, przełożyć (na później)"
+put smt off,"odłożyć, przełożyć (na później), opóźnić coś"
+put a pin in smt,"odłożyć, przełożyć (na później), opóźnić coś"
+prayer,"modlitwa, pacierz, modły"
+predator,drapieżnik
+principle,"zasada, prawo, reguła"
+principled,"uzasadniony, wynikający z zasad, kierujący się zasadami"
+proclivity to/towards smt,skłonność do czegoś
+promiscuity,swoboda/rozwiązłość seksualna
+be prone to,skłonny (do zrobienia czegoś)
+prosperity,"dobrobyt, pomyślność, powodzenie"
+province,"prowincja, województwo"
+voivodeship,województwo
+puberty,okres dojrzewania płciowego
+adolescence,"dojrzewanie, okres dojrzewania płciowego"
+pull sb/smt apart,odsuwać od siebie (np. ludzi)
+purify,oczyścić
+occurrence,"zdarzenie, wypadek"
+propinquitous,"bliski, na wyciągnięcie ręki"
+resolve,"rozkładać się, rozpuszczać, rozwiązywać, decydować, postanawiać"
+blessing in disguise,szczęście w nieszczęściu
+blessing,"błogosławieństwo, szczęście, uśmiech losu"
+disguise,"przebierać się, zmieniać wygląd, maskować się, zatuszować coś, kamuflować, ukryć (uczucia)"
+bone of contention,kość niezgody
+contention,"twierdzenie, spór, kwestia sporna"
+acquiesce to smt,"godzić się na coś, przystawać na coś (nawet jeśli nam się nie podoba)"
+jaw-dropping,"oszałamiający, imponujący"
+accolade,"dowód uznania, wyróżnienie pochwała, uznanie"
+knowledgable,"mądry, znający się na rzeczy, obeznany, wnikliwy"
+manhandle,"sponiewierać, ochodzić się brutalnie"
+yearn for smt,"tęsknić do czegoś, pragnąć czegoś"
+yield,"dać, dawać, skutkować (np. wynik, odpowiedź, rezultaty), dostarczać (profity), poddawać (po walce)"
+ridicule,"ośmieszać, wykpić, szydzić, drwić"
+precipitation,opady atmosferyczne
+humidity,wilgotność
+overview,"przgląd,  ogólny zary, zarys"
+vacate,"anulować, opuszczać, porzucić, zwolnić (miejsce)"
+perish,"umierać, ginąć, rozkładać się, niszczeć"
+hostility,wrogość
+compassion,"współczucie, litość"
+minority,mniejszość
+majority,większość
+ancestor,przodek
+meerkat,surykatka
+otter,wydra
+endanger,"zagrażać, zagrozić"
+endangerment,zagrożenie
+stutter,jąkać sięe
+fatigue,"zmęczenie, znużenie"
+fast,pościć
+diary,"dziennik, pamiętnik"
+chronic,przewlekły
+worldwide,"ogólnoświatowy, na całym świecie"
+disseminate,"rozpowszechniać, szerzyć (poglądy, idee)"
+efficacy,"skuteczność, efektywność"
+avenue,"droga (sposób osiągania czegoś), możliwość"
+simmer,gotować na wolnym ogniu
+soucepan,"rondel, patelnia"
+bay leaf,liść laurowy
+crackle,"trzaskać, trzeszczeć"
+stir,"mieszać, zamieszać, wymieszać (w garnku)"
+assessment,"ocena, oszacowanie"
+overthrow,"obalić, zburzyć, burzyć (rząd, system)"
+unfazed,niewzruszony
+whim,"kaprys, zachcianka, grymas"
+be predicated on smt,być opartym na czymś
+harrow,"męczyć, dokuczać"
+utter,"całkowity, totalny, kompletny (porażka, szczerość)"
+treshold,"próg, granica (bólu, wytrzymałości)"
+counsel,"doradzać, radzić"
+grandiose,"majestatyczny, okazały"
+omniscience,wszechwiedza
+omni-(noun),wszech(rzeczownik)
+virtually,"niemalże, prawie, zupełnie"
+hyper-(adjective),"nad, więcej, bardzo, super-(przymiotnik)"
+acute,"przenikliwy, bystry, wnikliwy"
+unleash,"spuszczać ze smyczy, wyzwalać, uwalaniać"
+esteem,"szacunek, poważanie, szanować, cenić, doceniać"
+self-esteem,poczucie własnej wartości
+conceal,"ukrywać, skrywać"
+retrieve,"odzyskać, odnaleźć, pobrać (z bazy danych)"
+surplus,"nadmiar (prdoukcji), nadwyżka (budżetowa)"
+crude,prymitywny
+leggy,długonogi
+seedling,"sadzonka, rozsada"
+enthralled,"zafascynowany, oczarowany, urzeczony"
+date palm,daktylowiec
+dormancy,sen (przestarzałe)
+graft,"szczepić, zaszczepić (roślinę)"
+take out smt,wyjąć coś
+pour smt to smt,wlać coś do czegoś
+prescribe,przepisywać lekarstwa
+stretching,rozciąganie (ćwiczenia)
+ember,rozżarzony węgiel
+hold on,"tzymać się czegoś, poczekać"
+overdose,przedawkować
+sucker,"naiwniak, frajer, głupek"
+nefarious,"niegodziwy, nikczemny, niecny"
+lift sb up,podnieść kogoś na duchu
+premonition,przeczucie
+slaughter,"ubój zwierząt, mord, masakara, rzeź (ludzi)"
+frenzy,"szaleństwo, szał"
+feeding frenzy,"burza medialna, szum medialny"
+assert,"twierdzić (coś), zapewniac (o czymś), upominać się o (swoje prawa), domagać (należynych praw)"
+fixture,"armatura, element instalacji lub armatury"
+equivalent,odpowiednik
+fauce,urządzenie kontrolujące przepływ wody z rur (kran)
+perimeter,obwód (figury geometrycznej)
+tear smt down,"rozdzielić, zburzyć, wyburzyć coś"
+onward,"dalszy, naprzód, do przodu, wprzód"
+ray,promień (światła)
+anomaly,"anomalia, nieprawidłowość"
+envision,"wyobrażać sobie coś, oczekiwać (że coś się stanie, pojawi), wizualizować sobie"
+deficiency,"brak, niedobór (witamin, pieniędzy), słabość, niedoskonałość"
+unwillingly,niechętnie (coś powiedzieć)
+glance,"zerknąć, zerkać"
+for a while,przez chwilę
+opt for smt,zdecydować się na coś
+proposition,propozycja
+discern,"rozeznawać, dostrzegać"
+antonym,antonim
+namely,mianowicie
+embrace,"przyjmować  entuzjastycznie (ofertę, możliwość), akceptować, uściskać kogoś, przytulać kogoś, obejmować (jakiś zakres)"
+in order to,aby
+speech,przemówienie
+vocabulary,słownictwo
+heritage,"dziedzictwo, spuścizna (ważne dla społeczeństwa)"
+impoverish,"zubożyć (kulturę), doprowadzić do ubóstwa, zniszczyć, osłabić"
+neglect,"zaniedbać (ogród, wygląd), lekceważyć (problem)"
+timestamp,znacznik czasu (np. 20.11.24)
+blockhead,"dureń, głupek"
+delight,"przyjemność, rozkosz, zachwyt"
+respite,"ulga, wytchnienie, odpoczynek"
+fright,"strach, trwoga, przerażenie, postrach"
+meadow,łąka
+thereby,tym samym
+workaholism,pracoholizm
+totalate,"niszczyć, demolować, (całkowicie)"
+deafen,ugłuszać
+rejoice,radować się
+unsteady,"chwiejny, niepewny, nietrwały"
+blister,bąbel na nodze/odcisk
+hangover,kac
+sprain,zwichnąć (nogę)
+shiver,"drżeć (z zimna, podczas choroby)"
+severe,"poważny, ciężki, intensywny, ekstremalny (ból, warunki pogodowe)"
+rinse,"przepłukać, opłukać, spłukać (ręce, warzywa)"
+disinfectant,"środek dezynfekujący, dezynfekcyjny"
+in-patient,patient who attends a hospital for treatment and stays there overnight
+out-patient,patient who gets treatment in hospital but don't stay there overnight
+be as fit as a fiddle,"być zdrów jak ryba, mieć super zdrowie"
+be off-colour,"marnie wyglądać, średnio się czuć"
+reap,"zbierać (owoce swojej pracy), korzystać (z wyniku czegoś), kosić/zbierać (trawę), reap a richer more fullfilled life"
+wholeheartedly,"z całego serca, gorąco (kochać, o uczuciach), całkowicie (popierać coś)"
+fable,"hisotryjka, bajka, przypowieść"
+grasshopper,konik polny
+fiddle,"fałszować (rachunki, dowody), bezmyślnie się bawić rękami"
+dire,"pilny, straszliwy, ekstremalny, They are in dire need of sugar, okropny, przerażający potworny, She was shocked after hearing the dire news"
+strait,"cieśnina, przesmyk, kłopot, strapienie, problem, Our company is in financial straits, he knows that he will be in straits when return home"
+undergo,"poddawać się (badaniom, operacji), You will undergo a mojor surgery so you cannot eat anything, odbywać (kurację), przechodzić (szkolenie), You need to undergo a therapy because otherwise you end up as your parents"
+shortsighted,krótkowzroczny
+starkly,"wyraźnie, zupełnie, She is starkly aware that she is hungry but doesn't want to eay anything, It is starkly clear that he hates his job"
+squander,"marnować, trwonić (money)"
+splurge,"marnować, trwonić (pieniądze), szaleńczo je wydawać"
+bailout,dofinansowanie
+gelato,lody włoskie
+discretionary,"dowolny, uznaniowy (pozostawiony czyjejś decyzji)"
+stingy,skąpy
+grandeur,"dostojność, wspaniłość, majestatyczność, okazałość"
+deride,"wyszydzać, wyśmiewać, drwić"
+slick-haired,"wyglądający na atrakcyjnego, bogatego faceta"
+unbbridled,"nieokiełznany (o gniewie, sile), niepohamowany (optymizm)"
+freewheeling,"beztroski, swobodny, żyjący według własnych przekonań"
+peon,"osoba o niskoprogowym zatrudnieniu, niewykształcona, pposiadająca mały status, kiedyś pracownik na roli"
+clerk,"sprzedawca, ekspedient, ekspedientka w sklepie"
+quasi,"niby, rzekomo, pseudo"
+be busted,"be caught when doing sth illigal, wrong, forbidden"
+thrifty,"oszczędny (cecha osoby), gospodarny"
+sock away,"odłożyć coś (pieniądze), schować (w bezpiecznym miejscu), odkładać w skarpete"
+kernel,"jądro, ziarno, źródło, sedno, istota czegoś, I think we didn't touch upon the kernel of the matter"
+scrounge up,"znaleźć kogoś/coś (when you have scarce resources), get what you need under pressure (when looking for food, money, supplies)"
+refrigerate,"chłodzić, ochładzać (jedzenie lub napój)"
+moisture,wilgoć
+thriftiness,"oszczędność, gospodarność"

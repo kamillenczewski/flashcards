@@ -1,0 +1,12 @@
+word,explanation
+excruciating,"nieznośny, potworny (ból)"
+root for sb,kibicować komuś
+nosedive,"spadać; spadać na łeb, na szyję The prices of fuel are nosediving"
+elusive,"nieuchwytny, trudno osiągalny"
+convenient,"wygodny, praktyczny"
+togetherness,wspólnota
+inevitable,nieunikniony
+uphold,"podtrzymywać (decyzję, obietnicę)"
+solemnly,"uroczyście, poważnie"
+comb,grzebień
+

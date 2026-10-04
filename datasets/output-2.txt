@@ -1,0 +1,4 @@
+word,explanation
+excruciating,"nieznośny, potworny (ból)"
+root for sb,kibicować komuś
+
