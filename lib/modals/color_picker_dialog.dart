@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_colorpicker/flutter_colorpicker.dart';
 import 'package:fproject/controllers/global/language_controller.dart';
 import 'package:fproject/controllers/global/settings_controller.dart';
+import 'package:fproject/flutter_colorpicker/flutter_colorpicker.dart';
 import 'package:fproject/other/action_button.dart';
 import 'package:get_it/get_it.dart';
 import 'package:provider/provider.dart';
@@ -28,11 +28,11 @@ void showColorPicker(
           return Dialog(
             child: Container(
               decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(16.0),
-              color: settings.outerColor,
-              border: BoxBorder.all(color: settings.innerColor, width: 2)
-            ),
-            padding: const EdgeInsets.all(15.0),
+                borderRadius: BorderRadius.circular(16.0),
+                color: settings.outerColor,
+                border: BoxBorder.all(color: settings.innerColor, width: 2),
+              ),
+              padding: const EdgeInsets.all(15.0),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 mainAxisSize: .min,
@@ -58,11 +58,11 @@ void showColorPicker(
                     height: 25,
                     width: innerWidth,
                     child: ColorPickerSlider(
-                      thumbBorderWidth: 3,             
+                      thumbBorderWidth: 3,
                       TrackType.hue,
                       hsvColor,
                       (newHsv) {
-                        setState(() { 
+                        setState(() {
                           hsvColor = newHsv;
                         });
                       },
@@ -77,15 +77,18 @@ void showColorPicker(
                       TrackType.alpha,
                       hsvColor,
                       (newHsv) {
-                        setState(() { 
+                        setState(() {
                           hsvColor = newHsv;
-                        });     
+                        });
                       },
-                      displayThumbColor : true
+                      displayThumbColor: true,
                     ),
                   ),
                   Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 16,
+                      vertical: 8,
+                    ),
                     decoration: BoxDecoration(
                       color: Colors.grey[800],
                       borderRadius: BorderRadius.circular(8),
@@ -93,9 +96,9 @@ void showColorPicker(
                     child: Text(
                       '#${hsvColor.toColor().toHexString()}',
                       style: TextStyle(
-                        color: Colors.white, 
-                        fontSize: 16, 
-                        fontFamily: settings.fontFamily
+                        color: Colors.white,
+                        fontSize: 16,
+                        fontFamily: settings.fontFamily,
                       ),
                     ),
                   ),
@@ -107,25 +110,25 @@ void showColorPicker(
                       spacing: 5,
                       children: [
                         ActionButton(
-                          onTap: () => Navigator.of(context).pop(), 
-                          text: language["Cancel"]
+                          onTap: () => Navigator.of(context).pop(),
+                          text: language["Cancel"],
                         ),
                         ActionButton(
                           onTap: () {
                             onColorSubmitted(hsvColor.toColor().toHexString());
                             Navigator.of(context).pop();
-                          }, 
+                          },
                           text: language["Submit"],
                           reversedColors: true,
                         ),
                       ],
                     ),
-                  )
+                  ),
                 ],
               ),
-            )
+            ),
           );
-        }
+        },
       );
     },
   );

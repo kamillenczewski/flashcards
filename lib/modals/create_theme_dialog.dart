@@ -1,7 +1,7 @@
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_colorpicker/flutter_colorpicker.dart';
 import 'package:fproject/controllers/global/language_controller.dart';
+import 'package:fproject/flutter_colorpicker/src/utils.dart';
 import 'package:fproject/modals/color_picker_dialog.dart';
 import 'package:fproject/modals/information_dialog.dart';
 import 'package:fproject/models/color_theme.dart';

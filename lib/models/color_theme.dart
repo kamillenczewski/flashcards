@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_colorpicker/flutter_colorpicker.dart';
+import 'package:fproject/flutter_colorpicker/src/utils.dart';
 import 'package:fproject/other/utils.dart';
 
 class ColorTheme {
@@ -12,16 +12,19 @@ class ColorTheme {
   static const String kTable = 'ColorThemes';
   static const String kId = 'id';
   static const String kName = 'name';
-  static const String kInnerColor = 'innerColor'; 
-  static const String kOuterColor = 'outerColor'; 
-  static const String kMiddleColor = 'middleColor'; 
+  static const String kInnerColor = 'innerColor';
+  static const String kOuterColor = 'outerColor';
+  static const String kMiddleColor = 'middleColor';
 
   static final kDarkTheme = ColorTheme(
     id: 1,
     name: 'dark',
     innerColor: Colors.white.toHexString(),
     outerColor: Colors.black.toHexString(),
-    middleColor: getColorInBetween(Colors.white.toHexString(), Colors.black.toHexString()),
+    middleColor: getColorInBetween(
+      Colors.white.toHexString(),
+      Colors.black.toHexString(),
+    ),
   );
 
   static final kLightTheme = ColorTheme(
@@ -29,7 +32,10 @@ class ColorTheme {
     name: 'light',
     innerColor: Colors.black.toHexString(),
     outerColor: Colors.white.toHexString(),
-    middleColor: getColorInBetween(Colors.white.toHexString(), Colors.black.toHexString()),
+    middleColor: getColorInBetween(
+      Colors.white.toHexString(),
+      Colors.black.toHexString(),
+    ),
   );
 
   static final pernamentColorThemeNames = [kDarkTheme.name, kLightTheme.name];
