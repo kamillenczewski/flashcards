@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fproject/controllers/global/settings_controller.dart';
 import 'package:fproject/models/english_card.dart';
-import 'package:fproject/modals/link_group_to_card_modal.dart';
 import 'package:fproject/other/utils.dart';
-import 'package:fproject/pages/widgets/custom_menu_button.dart';
 import 'package:fproject/services/table/notes_table_service.dart';
 import 'package:get_it/get_it.dart';
 import 'package:provider/provider.dart';
@@ -12,7 +10,7 @@ final getIt = GetIt.instance;
 
 class CurrentSessionPage extends StatefulWidget {
   const CurrentSessionPage({super.key});
-  
+
   @override
   State<CurrentSessionPage> createState() => _CurrentSessionPageState();
 }
@@ -26,18 +24,20 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
     final settings = context.watch<SettingsController>();
 
     return FutureBuilder(
-      future: _notesTableService.getNotes(cardId), 
+      future: _notesTableService.getNotes(cardId),
       builder: (context, snapshot) {
         final notes = snapshot.data ?? [];
-        final noteControllers = notes.map((e) => TextEditingController(text: e.content)).toList();
-    
+        final noteControllers = notes
+            .map((e) => TextEditingController(text: e.content))
+            .toList();
+
         return ListView.builder(
           shrinkWrap: true,
           physics: const NeverScrollableScrollPhysics(),
           itemCount: snapshot.data?.length ?? 0,
           itemBuilder: (context, index) {
             final note = notes[index];
-            
+
             return Column(
               children: [
                 Container(
@@ -55,20 +55,26 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
                           controller: noteControllers[index],
                           onEditingComplete: () {
                             setState(() {
-                              _notesTableService.updateNote(note.id, cardId, noteControllers[index].text);
+                              _notesTableService.updateNote(
+                                note.id,
+                                cardId,
+                                noteControllers[index].text,
+                              );
                             });
                           },
                           onTapOutside: (e) {
                             setState(() {
-                              _notesTableService.updateNote(note.id, cardId, noteControllers[index].text);
+                              _notesTableService.updateNote(
+                                note.id,
+                                cardId,
+                                noteControllers[index].text,
+                              );
                             });
                           },
-                          style: TextStyle(
-                            color: settings.innerColor, 
-                          ),
+                          style: TextStyle(color: settings.innerColor),
                           decoration: InputDecoration(
                             labelStyle: TextStyle(
-                              fontFamily: settings.fontFamily, 
+                              fontFamily: settings.fontFamily,
                             ),
                             enabledBorder: UnderlineInputBorder(
                               borderSide: BorderSide(color: Colors.transparent),
@@ -84,23 +90,25 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
                           setState(() {
                             _notesTableService.deleteNote(note.id);
                           });
-                        }, 
-                        icon: Icon(Icons.delete, color: settings.innerColor)
-                      )
+                        },
+                        icon: Icon(Icons.delete, color: settings.innerColor),
+                      ),
                     ],
                   ),
                 ),
-                SizedBox(height: 8)
+                SizedBox(height: 8),
               ],
             );
-          }
+          },
         );
-      }
+      },
     );
   }
 
   String createCardText(EnglishCard card) {
-    return _isExplanationVisible ? getTitle(card.explanation) : getTitle(card.word);
+    return _isExplanationVisible
+        ? getTitle(card.explanation)
+        : getTitle(card.word);
   }
 
   // Widget createPopupMenuButton(EnglishCard card) {
@@ -108,14 +116,14 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
   //     // iconSize: 33,
   //     itemsData: [
   //       (
-  //         label: 'Add card to group', 
-  //         icon: Icons.add, 
+  //         label: 'Add card to group',
+  //         icon: Icons.add,
   //         callback: () => showLinkGroupToCardModal(context, setState, card.id)
   //       ),
   //       (
-  //         label: 'New note', 
-  //         icon: Icons.sticky_note_2_rounded, 
-  //         callback: () => 
+  //         label: 'New note',
+  //         icon: Icons.sticky_note_2_rounded,
+  //         callback: () =>
   //           setState(() {
   //             _notesTableService.addNote(card.id, '');
   //           })
@@ -124,7 +132,10 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
   //   );
   // }
 
-  Widget createOperationButton({required String title, required void Function() onTap}) {
+  Widget createOperationButton({
+    required String title,
+    required void Function() onTap,
+  }) {
     final settings = context.watch<SettingsController>();
 
     return Expanded(
@@ -134,19 +145,18 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
           decoration: BoxDecoration(
             borderRadius: BorderRadius.all(Radius.circular(17)),
             border: BoxBorder.all(width: 3, color: settings.innerColor),
-            color: settings.middleColor
+            color: settings.middleColor,
           ),
           padding: .all(8),
           child: Text(
-            title, 
+            title,
             textAlign: .center,
             style: TextStyle(
-              fontFamily: 
-              settings.fontFamily, 
+              fontFamily: settings.fontFamily,
               color: settings.innerColor,
               fontWeight: .bold,
-              fontSize: 15
-            )
+              fontSize: 15,
+            ),
           ),
         ),
       ),
@@ -178,12 +188,8 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
                       top: 5,
                       right: 5,
                       child: IconButton(
-                        onPressed: () {
-                        }, 
-                        icon: Icon(
-                          Icons.favorite,
-                          color: settings.innerColor,
-                        )
+                        onPressed: () {},
+                        icon: Icon(Icons.favorite, color: settings.innerColor),
                       ),
                     ),
                     Expanded(
@@ -197,7 +203,7 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
                               style: TextStyle(
                                 fontFamily: settings.fontFamily,
                                 fontSize: 25,
-                                color: settings.innerColor
+                                color: settings.innerColor,
                               ),
                               textAlign: TextAlign.center,
                             ),
@@ -217,14 +223,14 @@ class _CurrentSessionPageState extends State<CurrentSessionPage> {
                 mainAxisAlignment: .center,
                 spacing: 12,
                 children: [
-                  createOperationButton(title: 'Previous', onTap: () {}), 
+                  createOperationButton(title: 'Previous', onTap: () {}),
                   createOperationButton(title: 'Next', onTap: () {}),
                 ],
               ),
               // getNotesList(_currentCardAndView.card.id),
             ],
           ),
-        )
+        ),
       ),
     );
   }
